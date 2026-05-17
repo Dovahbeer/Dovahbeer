@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 I'm Joel, actively studying and achieving certification in IT security!👾
 
-My current projects include setting up Microsoft Sentinel and creating a SOC home lab! 💻
+My current project include setting up Microsoft Sentinel and creating a SOC home lab! 💻
 
 If you want to reach out to me, feel free to either write to me over on LinkedIN or on discord! 😊
 
