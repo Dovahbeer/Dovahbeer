@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm Joel, actively studying and achieving certification in IT security!👾
+I'm Joel, actively studying and achieving certifications in IT security!👾
 
 My current project include setting up Microsoft Sentinel and creating a SOC home lab! 💻
 
@@ -18,7 +18,7 @@ If you want to reach out to me, feel free to either write to me over on LinkedIN
 🟥  CompTIA Security+
 
 ### Facts about me
-• Certified teacher of Math and Science on a highschool level! 📝
+• Certified teacher of Math and Science! 📝
 
 • Passionate about training - specifically strength training! 💪
 
