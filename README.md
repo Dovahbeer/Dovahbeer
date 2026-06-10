@@ -13,9 +13,9 @@ If you want to reach out to me, feel free to either write to me over on LinkedIN
 ✔️  [SC-200 / Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/JoelMenghesteab-2899/2FF909EFE45EC6D7?sharingId=68755B9F120A8279)
 
 ### Current Projects/Certifications
-🟥  Creating a SOC home lab
+🟠  Creating a SOC home lab - Currently in progress!
 
-🟥  CompTIA Security+
+🔴  CompTIA Security+
 
 ### Facts about me
 • Certified teacher of Math and Science! 📝
