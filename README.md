@@ -15,7 +15,7 @@ If you want to reach out to me, feel free to either write to me over on LinkedIN
 ### Current Projects/Certifications
 🟠  Creating a SOC home lab - [Currently in progress](https://github.com/Dovahbeer/Azure-Sentinel-Homelab)!
 
-🔴  CompTIA Security+
+🔴  CompTIA Security+ - Currently in progress!
 
 ### Facts about me
 • Certified teacher of Math and Science! 📝
